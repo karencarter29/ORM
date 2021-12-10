@@ -15,19 +15,7 @@ public class Application {
 
     public static void main(String[] args) throws Exception {
 
-//        OrmManager ormManager = OrmManager.get("DataBase");
-//        ormManager.scanPackages(Application.class);
 //
-//        Zoo zoo = new Zoo("New York Zoo");
-//        Animal animal1 = new Animal("Ricky", 4);
-//        Animal animal2 = new Animal("Jack", 10);
-//        zoo.addAnimal(animal1);
-//        zoo.addAnimal(animal2);
-//        ormManager.save(zoo);
-//        ormManager.delete(animal1);
-//        for (var el : zoo.getAnimals()) {
-//            System.out.println(el);
-//        }
     }
 }
 
