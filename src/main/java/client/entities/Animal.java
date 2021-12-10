@@ -57,13 +57,5 @@ public class Animal {
         return this.zoo;
     }
 
-    @Override
-    public String toString() {
-        return "Animal{" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                ", age=" + age +
-                ", zoo=" + zoo +
-                '}';
-    }
+
 }
